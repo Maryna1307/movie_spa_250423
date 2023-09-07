@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie_spa_250423/static/css/main.59ff64ed.css",
+    "main.js": "/movie_spa_250423/static/js/main.c2c46879.js",
+    "index.html": "/movie_spa_250423/index.html",
+    "main.59ff64ed.css.map": "/movie_spa_250423/static/css/main.59ff64ed.css.map",
+    "main.c2c46879.js.map": "/movie_spa_250423/static/js/main.c2c46879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ff64ed.css",
+    "static/js/main.c2c46879.js"
+  ]
+}
